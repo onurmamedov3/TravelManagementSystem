@@ -3,16 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\views\\genericadmin\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\views\\genericadmin\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\controllers\\genericadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\controllers\\genericadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\models\\cruise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\models\\cruise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\models\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\models\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\views\\offers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|solutionrelative:tourmanagementsystem\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA879E87-99D1-45F2-9AD7-323BC287F471}|TourManagementSystem\\TourManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\tourmanagementsystem\\tourmanagementsystem\\wwwroot\\styles\\main_styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -70,37 +126,247 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TourManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TourManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADUAAAA5AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "TourManagementSystem\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAhwHoAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-28T12:40:31.941Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TourManagementSystem\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "TourManagementSystem\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAYCAAAAAAAAAAAAABcCAACQAAAAAAAAAA==",
+              "ViewState": "AgIAALgDAAAAAAAAAAAAwKQDAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-28T12:40:26.789Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\GenericAdmin\\Manage.cshtml",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Views\\GenericAdmin\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\GenericAdmin\\Manage.cshtml",
+              "RelativeToolTip": "TourManagementSystem\\Views\\GenericAdmin\\Manage.cshtml",
+              "ViewState": "AgIAAGEBAAAAAAAAAAAQwHcBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T19:09:13.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Controllers\\GenericAdminController.cs",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Controllers\\GenericAdminController.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Controllers\\GenericAdminController.cs",
+              "RelativeToolTip": "TourManagementSystem\\Controllers\\GenericAdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:06:45.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "TourManagementSystem\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:47:47.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "TourManagementSystem\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T13:52:44.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "TourManagementSystem\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAwNkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T12:58:04.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cruise.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\Cruise.cs",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Models\\Cruise.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\Cruise.cs",
+              "RelativeToolTip": "TourManagementSystem\\Models\\Cruise.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:15:40.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "TourManagementSystem\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAAAAUBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T17:52:32.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "TourManagementSystem\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAAAAoBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T17:53:02.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "TourManagementSystem\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:48:58.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TourManagementSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:12:04.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Program.cs",
+              "RelativeToolTip": "TourManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:16:19.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Models\\Trip.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\Trip.cs",
+              "RelativeToolTip": "TourManagementSystem\\Models\\Trip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:15:30.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\Flight.cs",
+              "RelativeToolTip": "TourManagementSystem\\Models\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:15:13.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "TourManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:12:50.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\CarRental.cs",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Models\\CarRental.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\CarRental.cs",
+              "RelativeToolTip": "TourManagementSystem\\Models\\CarRental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:14:51.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "TourManagementSystem\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Models\\Hotel.cs",
+              "RelativeToolTip": "TourManagementSystem\\Models\\Hotel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA1wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:14:05.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Offers\\Index.cshtml",
               "RelativeDocumentMoniker": "TourManagementSystem\\Views\\Offers\\Index.cshtml",
@@ -112,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "OffersController.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Controllers\\OffersController.cs",
               "RelativeDocumentMoniker": "TourManagementSystem\\Controllers\\OffersController.cs",
@@ -124,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "NewsController.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Controllers\\NewsController.cs",
               "RelativeDocumentMoniker": "TourManagementSystem\\Controllers\\NewsController.cs",
@@ -136,32 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "TourManagementSystem\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "TourManagementSystem\\Views\\About\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T12:58:04.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "TourManagementSystem\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "TourManagementSystem\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T13:52:44.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\News\\Index.cshtml",
               "RelativeDocumentMoniker": "TourManagementSystem\\Views\\News\\Index.cshtml",
@@ -173,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "TourManagementSystem\\Controllers\\ContactController.cs",
@@ -185,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "main_styles.css",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\wwwroot\\styles\\main_styles.css",
               "RelativeDocumentMoniker": "TourManagementSystem\\wwwroot\\styles\\main_styles.css",
@@ -197,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\Example\\Index.cshtml",
               "RelativeDocumentMoniker": "TourManagementSystem\\Views\\Example\\Index.cshtml",
@@ -209,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "ExampleController.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Controllers\\ExampleController.cs",
               "RelativeDocumentMoniker": "TourManagementSystem\\Controllers\\ExampleController.cs",
@@ -221,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "AboutController.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "TourManagementSystem\\Controllers\\AboutController.cs",
@@ -233,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TourManagementSystem\\Controllers\\HomeController.cs",
@@ -245,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\TourManagementSystem\\TourManagementSystem\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "TourManagementSystem\\Views\\_ViewImports.cshtml",

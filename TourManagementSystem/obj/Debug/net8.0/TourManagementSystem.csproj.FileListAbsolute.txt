@@ -32,3 +32,4 @@ C:\Users\onurm\source\repos\TourManagementSystem\TourManagementSystem\obj\Debug\
 C:\Users\onurm\source\repos\TourManagementSystem\TourManagementSystem\obj\Debug\net8.0\TourManagementSystem.pdb
 C:\Users\onurm\source\repos\TourManagementSystem\TourManagementSystem\obj\Debug\net8.0\TourManagementSystem.genruntimeconfig.cache
 C:\Users\onurm\source\repos\TourManagementSystem\TourManagementSystem\obj\Debug\net8.0\ref\TourManagementSystem.dll
+C:\Users\onurm\source\repos\TourManagementSystem\TourManagementSystem\obj\Debug\net8.0\TourManagementSystem.sourcelink.json

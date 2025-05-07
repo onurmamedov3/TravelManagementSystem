@@ -24,12 +24,24 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/onurm/source/repos/TourManagementSystem/TourManagementSystem/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/onurm/source/repos/TourManagementSystem/TourManagementSystem/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/onurm/source/repos/TourManagementSystem/TourManagementSystem/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/onurm/source/repos/TourManagementSystem/TourManagementSystem/Views/Example/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXBsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/onurm/source/repos/TourManagementSystem/TourManagementSystem/Views/GenericAdmin/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJpY0FkbWluXE1hbmFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/onurm/source/repos/TourManagementSystem/TourManagementSystem/Views/Home/Index.cshtml]
